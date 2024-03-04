@@ -164,7 +164,7 @@ main{
 }
 
 #paper{
-  background-image: url("./assets/Group\ 1.png");
+  background-image: url("./assets/Group1.png");
 }
 
 
@@ -246,7 +246,7 @@ main{
 }
 
 #user-paper, #pc-paper{
-  background-image: url("./assets/Group\ 1.png");
+  background-image: url("./assets/Group1.png");
   display: none;
 }
 
